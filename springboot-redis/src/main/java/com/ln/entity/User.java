@@ -1,4 +1,4 @@
-package com.ln.bean;
+package com.ln.entity;
 
 import java.io.Serializable;
 

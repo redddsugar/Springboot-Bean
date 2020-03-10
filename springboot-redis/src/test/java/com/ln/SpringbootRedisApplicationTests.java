@@ -1,6 +1,6 @@
 package com.ln;
 
-import com.ln.bean.User;
+import com.ln.entity.User;
 import com.ln.service.UserService;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

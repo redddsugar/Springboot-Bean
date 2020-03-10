@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda05f43-67c2-43f6-8b67-8ba1f57f32f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/src/main/java/com/ln/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/ln/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/src/main/java/com/ln/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/ln/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/src/test/java/com/ln/SpringbootRedisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/test/java/com/ln/SpringbootRedisApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +47,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,7 +62,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootRabbitmqApplication">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ln.daoOne" />
+      <recent name="com.ln.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootJpaApplication">
     <configuration name="SpringbootJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-jpa" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.SpringbootJpaApplication" />
@@ -115,7 +107,9 @@
       <workItem from="1583763041249" duration="152000" />
       <workItem from="1583763214563" duration="2720000" />
       <workItem from="1583807493744" duration="44000" />
-      <workItem from="1583808146558" duration="2226000" />
+      <workItem from="1583808146558" duration="2570000" />
+      <workItem from="1583816617638" duration="287000" />
+      <workItem from="1583819555835" duration="5259000" />
     </task>
     <servers />
   </component>
@@ -123,29 +117,77 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Assign_Data_Sources" timestamp="1583825653583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Assign_Data_Sources/0.0.1280.680@0.0.1280.680" timestamp="1583825653583" />
     <state x="233" y="0" key="#Project_Structure" timestamp="1583762063378">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1583762063378" />
-    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1583809879881">
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1583819857464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583809879881" />
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583819857464" />
     <state x="487" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583763617141">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="487" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1583763617141" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583826520108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1583826520108" />
+    <state width="1237" height="369" key="GridCell.Tab.0.bottom" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.0.center" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.0.left" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.0.right" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.1.bottom" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.1.center" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.1.left" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
+    <state width="1237" height="369" key="GridCell.Tab.1.right" timestamp="1583825644274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="369" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583825644274" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1583764637145">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1583764637145" />
-    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1583807493994">
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1583819556708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583807493994" />
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583819556708" />
+    <state x="437" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583810538704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1583810538704" />
     <state x="28" y="0" key="new project wizard" timestamp="1583807529564">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583807529564" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583821450330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583821450330" />
   </component>
 </project>

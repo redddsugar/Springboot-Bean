@@ -1,5 +1,5 @@
 package com.ln.service;
-import com.ln.bean.User;
+import com.ln.entity.User;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
